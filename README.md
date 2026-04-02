@@ -2,6 +2,8 @@
 
 ## Iniciar el proyecto
 
+name DB: loginlaravelvuecrud
+
 Abrir dos terminales:
 
 1. Ejecutar Laravel: [BACKEND]
